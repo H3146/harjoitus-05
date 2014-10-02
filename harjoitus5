@@ -1,0 +1,17 @@
+//Harjoitus 5 Jani Tuomaala H3156
+#include <iostream>
+using namespace std;
+void main()
+{
+	int luku1;
+	int luku2;
+	cout << "Syötä Luku 1: \n";
+		cin >> luku1;
+	cout << "Syötä Luku 2: \n";
+		cin >> luku2;
+	if
+		(luku1 == luku2)
+		cout << "BINGO!\n";
+	else
+			cout << "BONGO\n";
+}
